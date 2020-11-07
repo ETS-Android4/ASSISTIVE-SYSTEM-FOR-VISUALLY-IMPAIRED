@@ -17,7 +17,7 @@ Developed a project during my final year of Engineering"Assistive Gloves for vis
 The basic idea of this project is, the use of an ultrasonic sensor along with a Smartphone to aid the a person suffering from being visually disabled.
 
 The project was divided into 2 parts: Distance Measurement, Image recognition    
-***1.Distance Measurement***    
+**1.Distance Measurement**   
 The ultrasonic sensors were used for distance measurement and Arduino which was programmed on Arduino IDE and was used for the processing which vibrated the haptic feedback  
 **2.Image recognition:**  
 Tools and technologies used were person's smartphone, Android studio, Python IDE    
