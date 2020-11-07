@@ -23,9 +23,9 @@ The ultrasonic sensors were used for distance measurement and Arduino which was 
 Tools and technologies used were person's smartphone, Android studio, Python IDE    
 The implementation of this stage involves the development of a mobile application currently supported only by Android devices. The idea is that the user will carry his/her smartphone in a case that will be worn in the neck and the device’s rear camera will be facing the objects that are going to appear in front of the user. The role of the application is to utilize the primary (rear) camera to get images real-time, process them, and identify the object present in a frame. The advantage of doing object detection is that you get to recognize multiple objects at a time.  
 
-**HERE IS A SAMPLE OUTPUT TABLE:**    
-Object        Detection     Distance     Inference  
-detected      confidence(%) measured(m)  Time(ms)  
-Laptop        75              -           226  
-Chair         56              -           163  
-CAR           72             3.3          337  
+**HERE IS A SAMPLE OUTPUT TABLE:** 
+Object detected: 
+Detection confidence(%): 75  56   72 
+Distance measured(m):    -   -   3.3
+Inference Time(ms):     226  163 337
+
