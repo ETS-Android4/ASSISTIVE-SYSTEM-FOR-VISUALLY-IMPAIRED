@@ -25,7 +25,7 @@ The implementation of this stage involves the development of a mobile applicatio
 
 **HERE IS A SAMPLE OUTPUT TABLE:** 
 Object detected: 
-Detection confidence(%): 75  56   72 
-Distance measured(m):    -   -   3.3
-Inference Time(ms):     226  163 337
+Detection confidence(%): 75  56   72   
+Distance measured(m):    -   -   3.3  
+Inference Time(ms):     226  163 337  
 
