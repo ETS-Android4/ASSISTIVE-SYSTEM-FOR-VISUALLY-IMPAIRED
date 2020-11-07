@@ -1,6 +1,6 @@
 # ASSISTIVE-VISION-FOR-VISUALLY-IMPAIRED
 
-**FILES IN PROJECT**    
+**FILES IN PROJECT**      
 **a.Files containing code**   
 android: This file contains the code for  android application installed in person's smart phone.      
 raspberry_pi: This File contains code for raspberry_pi  which will be installed on the gloves of persons hands.    
@@ -10,7 +10,7 @@ Third_eye_for_blinds.ino : This File contains the code for Arduino.
 PPPT.ppts: This file contains a ppt representation of the project.    
 TESTINGVIDEO.mp4:This file contains a **video of the working project**.Please download this file to see the project in action.  
   
-  
+  ###############################################################################################################################################################################################################################################################################################################################################################
 **ABOUT PROJECT**    
 Developed a project during my final year of Engineering"Assistive Gloves for visually impaired"  
 The basic idea of this project is, the use of an ultrasonic sensor along with a Smartphone to aid the a person suffering from being visually disabled.
